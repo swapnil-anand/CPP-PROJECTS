@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.py": "security",
+        "xstring": "cpp"
+    }
+}
